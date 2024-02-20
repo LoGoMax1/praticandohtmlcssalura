@@ -3,3 +3,5 @@ Praticando HTML CSS com alura fazendo: Um site para divulgação da Alura Plus, 
 Tecnologias
 HTML
 CSS
+
+Versel: https://praticandohtmlcssalura.vercel.app/
